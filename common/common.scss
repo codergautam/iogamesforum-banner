@@ -301,6 +301,7 @@
 // but if it's too large, clicking collapse animation will feel laggy
 
 #banner-content_wrap {
+  display: none;
   overflow: hidden;
   max-height: 1000px;
   transition: max-height 1s ease;
